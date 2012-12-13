@@ -1,5 +1,0 @@
-python utf8-filename-check.py /home/username/path/to/folder
-
-credits to AUTHOR: Duane Hinnen
-
-http://ubuntuforums.org/archive/index.php/t-1814039.html
